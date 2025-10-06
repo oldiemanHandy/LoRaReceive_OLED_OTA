@@ -1,0 +1,4 @@
+In file included from L:\ESP32\LoRaReceiver_OLED_OTA\LoRaReceiver_OLED_OTA.ino:14:
+L:\ESP32\LoRaReceiver_OLED_OTA\src\WiFi_OTA.h:15:10: fatal error: ElegantOTA.h: No such file or directory
+ #include <ElegantOTA.h>
+          ^~~~~~~~~~~~~~
