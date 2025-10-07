@@ -90,6 +90,7 @@ libraries/
 /.vs/LoRaReceiver_OLED_OTA
 /bin/LoRaReceiver_OLED_OTA/esp32_heltec_wifi_lora_32_V2
 /__vm/Compile.vmps.xml
+/__vm/
 /bin/LoRaReceiver_OLED_OTA/esp32_heltec_wifi_lora_32_V2/LoRaReceiver_OLED_OTA.cpp.d.vmpreproc
 /bin/LoRaReceiver_OLED_OTA/esp32_heltec_wifi_lora_32_V2/LoRaReceiver_OLED_OTA.cpp.o
 /bin/LoRaReceiver_OLED_OTA/esp32_heltec_wifi_lora_32_V2/.vm_sys/VMB_Core.Cache.txt
