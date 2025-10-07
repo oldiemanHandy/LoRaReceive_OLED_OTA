@@ -2,7 +2,7 @@
 # Arduino IDE 2
 *.elf
 *.hex
-*.bin
+#*.bin
 *.eep
 *.map
 *.d
