@@ -1,0 +1,4 @@
+In file included from L:\ESP32\LoRaReceiver_OLED_OTA\LoRaReceiver_OLED_OTA.ino:7:
+c:\users\mail\onedrive\dokumente\arduino\libraries\esp8266_and_esp32_oled_driver_for_ssd1306_displays\src\ssd1306wire.h:35:10: fatal error: Wire.h: No such file or directory
+ #include <Wire.h>
+          ^~~~~~~~
