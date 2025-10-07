@@ -1,3 +1,0 @@
-L:\ESP32\LoRaReceiver_OLED_OTA\LoRaReceiver_OLED_OTA.ino:11:10: fatal error: LoRa.h: No such file or directory
- #include <LoRa.h>
-          ^~~~~~~~

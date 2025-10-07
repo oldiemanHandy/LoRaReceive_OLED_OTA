@@ -136,6 +136,9 @@ void loop() {
             Serial.print(decoded);
             strcpy(buf, decoded.c_str());
         }
+        else {
+			ESP.restart();
+        }
     }
     // print RSSI of packet
     Serial.print(" with RSSI ");

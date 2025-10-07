@@ -1,4 +1,0 @@
-In file included from L:\ESP32\LoRaReceiver_OLED_OTA\LoRaReceiver_OLED_OTA.ino:9:
-L:\ESP32\LoRaReceiver_OLED_OTA\src\Define.h:7:11: fatal error: HTTP_Method.h: No such file or directory
-  #include <HTTP_Method.h>
-           ^~~~~~~~~~~~~~~
